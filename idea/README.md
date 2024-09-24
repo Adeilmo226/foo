@@ -1,3 +1,3 @@
 # foo
 
-This is my sample project
+This is my sample project. Im bored
